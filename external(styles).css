@@ -1,0 +1,16 @@
+/* External CSS in styles.css */
+
+/* Change background color of the webpage */
+body {
+    background-color: lightgray;
+}
+
+/* Style links with hover effects */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
